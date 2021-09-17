@@ -1,0 +1,399 @@
+[
+    
+    {
+        "ders" : "Matematik I",
+        "kodu" : "MAT102",
+        "saati": "10:30",
+        "derslik": "B021",
+        "dersin_hocasi": "Veli Yılmaz",
+        "ogrenim_tipi": "örgün"
+    
+    },
+    {
+        "ders" : "Matematik I",
+        "kodu" : "MAT102",
+        "saati": "20:30",
+        "derslik": "B021",
+        "dersin_hocasi": "Veli Yılmaz",
+        "ogrenim_tipi": "akşam"
+    
+    },
+    {
+        "ders" : "Tarih I",
+        "kodu" : "TRH101",
+        "saati": "10:30",
+        "derslik": "C124",
+        "dersin_hocasi": "Tahir Çıtlak",
+        "ogrenim_tipi": "örgün"
+    
+    },
+    {
+        "ders" : "Tarih I",
+        "kodu" : "TRH101",
+        "saati": "18:30",
+        "derslik": "C124",
+        "dersin_hocasi": "Tahir Çıtlak",
+        "ogrenim_tipi": "akşam"
+    
+    },
+    {
+        "ders" : "Totoloji",
+        "kodu" : "TT303",
+        "saati": "10:30",
+        "derslik": "E125",
+        "dersin_hocasi": "Kadir Turna",
+        "ogrenim_tipi": "örgün"
+    
+    },
+    {
+        "ders" : "Totoloji",
+        "kodu" : "TT303",
+        "saati": "20:30",
+        "derslik": "E125",
+        "dersin_hocasi": "Kadir Turna",
+        "ogrenim_tipi": "akşam"
+    
+    },
+    {
+        "ders" : "Türk Dili I",
+        "kodu" : "TD101",
+        "saati": "09:00",
+        "derslik": "E013",
+        "dersin_hocasi": "Perran Kutman",
+        "ogrenim_tipi": "örgün"
+    
+    },
+    {
+        "ders" : "Türk Dili I",
+        "kodu" : "TD101",
+        "saati": "19:00",
+        "derslik": "E013",
+        "dersin_hocasi": "Perran Kutman",
+        "ogrenim_tipi": "akşam"
+    
+    },
+    {
+        "ders" : "Tarih II",
+        "kodu" : "TT104",
+        "saati": "14:30",
+        "derslik": "K125",
+        "dersin_hocasi": "Burcu Balkaya",
+        "ogrenim_tipi": "örgün"
+    
+    },
+    {
+        "ders" : "Tarih II",
+        "kodu" : "TT104",
+        "saati": "21:30",
+        "derslik": "K125",
+        "dersin_hocasi": "Burcu Balkaya",
+        "ogrenim_tipi": "akşam"
+    
+    },
+    {
+        "ders" : "Türk Dili I",
+        "kodu" : "TD101",
+        "saati": "10:30",
+        "derslik": "B125",
+        "dersin_hocasi": "Sibel Başaran",
+        "ogrenim_tipi": "örgün"
+    
+    },
+    {
+        "ders" : "Türk Dili I",
+        "kodu" : "TD101",
+        "saati": "19:30",
+        "derslik": "B125",
+        "dersin_hocasi": "Sibel Başaran",
+        "ogrenim_tipi": "akşam"
+    
+    },
+    {
+        "ders" : "Veri Madenciliği",
+        "kodu" : "VM401",
+        "saati": "11:30",
+        "derslik": "E201",
+        "dersin_hocasi": "Halide Edip",
+        "ogrenim_tipi": "örgün"
+    
+    },
+    {
+        "ders" : "Veri Madenciliği",
+        "kodu" : "VM401",
+        "saati": "19:30",
+        "derslik": "E201",
+        "dersin_hocasi": "Halide Edip",
+        "ogrenim_tipi": "akşam"
+    
+    },
+    {
+        "ders" : "Algoritmaya Giriş",
+        "kodu" : "ALG205",
+        "saati": "9:30",
+        "derslik": "AMF01",
+        "dersin_hocasi": "Sibel Belalı",
+        "ogrenim_tipi": "örgün"
+    
+    },
+    {
+        "ders" : "Algoritmaya Giriş",
+        "kodu" : "ALG205",
+        "saati": "20:30",
+        "derslik": "AMF01",
+        "dersin_hocasi": "Sibel Belalı",
+        "ogrenim_tipi": "akşam"
+    
+    },
+    {
+        "ders" : "Web Tasarımı",
+        "kodu" : "WEB202",
+        "saati": "11:30",
+        "derslik": "C201",
+        "dersin_hocasi": "Barış Dinçer",
+        "ogrenim_tipi": "örgün"
+    
+    },
+    {
+        "ders" : "Web Tasarımı",
+        "kodu" : "WEB202",
+        "saati": "19:30",
+        "derslik": "C201",
+        "dersin_hocasi": "Barış Dinçer",
+        "ogrenim_tipi": "akşam"
+    
+    },
+    {
+        "ders" : "Grafik Tasarım",
+        "kodu" : "GRF304",
+        "saati": "09:30",
+        "derslik": "E401",
+        "dersin_hocasi": "Burcu Altamhan",
+        "ogrenim_tipi": "örgün"
+    
+    },
+    {
+        "ders" : "Grafik Tasarım",
+        "kodu" : "GRF304",
+        "saati": "20:30",
+        "derslik": "E401",
+        "dersin_hocasi": "Burcu Altamhan",
+        "ogrenim_tipi": "akşam"
+    
+    },
+    {
+        "ders" : "Sayısal Analiz",
+        "kodu" : "SYA208",
+        "saati": "10:30",
+        "derslik": "C200",
+        "dersin_hocasi": "Hamdi Tanpınar",
+        "ogrenim_tipi": "örgün"
+    
+    },
+    {
+        "ders" : "Sayısal Analiz",
+        "kodu" : "SYA208",
+        "saati": "20:30",
+        "derslik": "C200",
+        "dersin_hocasi": "Hamdi Tanpınar",
+        "ogrenim_tipi": "akşam"
+    
+    },
+    {
+        "ders" : "Katı Cisimler",
+        "kodu" : "KT304",
+        "saati": "12:30",
+        "derslik": "B125",
+        "dersin_hocasi": "Ertem Düzgün",
+        "ogrenim_tipi": "örgün"
+    
+    },
+    {
+        "ders" : "Katı Cisimler",
+        "kodu" : "KT304",
+        "saati": "21:00",
+        "derslik": "B125",
+        "dersin_hocasi": "Ertem Düzgün",
+        "ogrenim_tipi": "akşam"
+    
+    },
+    {
+        "ders" : "Bulanık Mantık",
+        "kodu" : "BM310",
+        "saati": "12:30",
+        "derslik": "A180",
+        "dersin_hocasi": "Aydal Yenikale",
+        "ogrenim_tipi": "örgün"
+    
+    },
+    {
+        "ders" : "Bulanık Mantık",
+        "kodu" : "BM310",
+        "saati": "20:30",
+        "derslik": "A180",
+        "dersin_hocasi": "Aydal Yenikale",
+        "ogrenim_tipi": "akşam"
+    
+    },
+    {
+        "ders" : "Olasılık ve İstatistik",
+        "kodu" : "BMB206",
+        "saati": "09:30",
+        "derslik": "E210",
+        "dersin_hocasi": "Gülüş Bozaroğlu",
+        "ogrenim_tipi": "örgün"
+    
+    },
+    {
+        "ders" : "Olasılık ve İstatistik",
+        "kodu" : "BMB206",
+        "saati": "19:30",
+        "derslik": "E210",
+        "dersin_hocasi": "Gülüş Bozaroğlu",
+        "ogrenim_tipi": "akşam"
+    
+    },
+    {
+        "ders" : "İşletim Sistemleri",
+        "kodu" : "BMB311",
+        "saati": "10:30",
+        "derslik": "B201",
+        "dersin_hocasi": "Erdem Şimşek",
+        "ogrenim_tipi": "örgün"
+    
+    },
+    {
+        "ders" : "İşletim Sistemleri",
+        "kodu" : "BMB311",
+        "saati": "20:30",
+        "derslik": "B201",
+        "dersin_hocasi": "Erdem Şimşek",
+        "ogrenim_tipi": "akşam"
+    
+    },
+    {
+        "ders" : "Bilgisayar Ağları",
+        "kodu" : "BA308",
+        "saati": "14:30",
+        "derslik": "C250",
+        "dersin_hocasi": "Tuğba Tarakçı",
+        "ogrenim_tipi": "örgün"
+    
+    },
+    {
+        "ders" : "Bilgisayar Ağları",
+        "kodu" : "BA308",
+        "saati": "22:30",
+        "derslik": "C250",
+        "dersin_hocasi": "Tuğba Tarakçı",
+        "ogrenim_tipi": "akşam"
+    
+    },
+    {
+        "ders" : "Bilgisayar Organizasyonu",
+        "kodu" : "BO404",
+        "saati": "12:30",
+        "derslik": "A304",
+        "dersin_hocasi": "Kerim Çetinbaş",
+        "ogrenim_tipi": "örgün"
+    
+    },
+    {
+        "ders" : "Bilgisayar Organizasyonu",
+        "kodu" : "BO404",
+        "saati": "12:30",
+        "derslik": "A304",
+        "dersin_hocasi": "Kerim Çetinbaş",
+        "ogrenim_tipi": "örgün"
+    
+    },
+    {
+        "ders" : "Mantık Devreleri",
+        "kodu" : "MD302",
+        "saati": "11:30",
+        "derslik": "E311",
+        "dersin_hocasi": "Hamit Hasta",
+        "ogrenim_tipi": "örgün"
+    
+    },
+    {
+        "ders" : "Mantık Devreleri",
+        "kodu" : "MD302",
+        "saati": "20:30",
+        "derslik": "E311",
+        "dersin_hocasi": "Hamit Hasta",
+        "ogrenim_tipi": "akşam"
+    
+    },
+    {
+        "ders" : "Makine Öğrenmesine Giriş",
+        "kodu" : "MOG401",
+        "saati": "10:30",
+        "derslik": "C203",
+        "dersin_hocasi": "Uğur Dündar",
+        "ogrenim_tipi": "örgün"
+    
+    },
+    {
+        "ders" : "Makine Öğrenmesine Giriş",
+        "kodu" : "MOG401",
+        "saati": "19:30",
+        "derslik": "C203",
+        "dersin_hocasi": "Uğur Dündar",
+        "ogrenim_tipi": "akşam"
+    
+    },
+    {
+        "ders" : "Veri Sıkıştırma Yöntemleri",
+        "kodu" : "VSY402",
+        "saati": "12:30",
+        "derslik": "C312",
+        "dersin_hocasi": "Mehmet Ali Brand",
+        "ogrenim_tipi": "örgün"
+    
+    },
+    {
+        "ders" : "Veri Sıkıştırma Yöntemleri",
+        "kodu" : "VSY402",
+        "saati": "19:30",
+        "derslik": "C312",
+        "dersin_hocasi": "Mehmet Ali Brand",
+        "ogrenim_tipi": "akşam"
+    
+    },
+    {
+        "ders" : "İş Sağlığı Güvenliği",
+        "kodu" : "ISG109",
+        "saati": "14:30",
+        "derslik": "AMF5",
+        "dersin_hocasi": "Mete Yarar",
+        "ogrenim_tipi": "örgün"
+    
+    },
+    {
+        "ders" : "İş Sağlığı Güvenliği",
+        "kodu" : "ISG109",
+        "saati": "21:30",
+        "derslik": "AMF5",
+        "dersin_hocasi": "Mete Yarar",
+        "ogrenim_tipi": "akşam"
+    
+    },
+    {
+        "ders" : "EDEBİYAT",
+        "kodu" : "EDB102",
+        "saati": "12:30",
+        "derslik": "B301",
+        "dersin_hocasi": "Seda Saymaz",
+        "ogrenim_tipi": "örgün"
+    
+    },
+    {
+        "ders" : "EDEBİYAT",
+        "kodu" : "EDB102",
+        "saati": "19:30",
+        "derslik": "B301",
+        "dersin_hocasi": "Seda Saymaz",
+        "ogrenim_tipi": "akşam"
+    
+    }
+]
